@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\bin\Debug\GestiondeTareasPendientes.exe.config
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\bin\Debug\GestiondeTareasPendientes.exe
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\bin\Debug\GestiondeTareasPendientes.pdb
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\obj\Debug\GestiondeTareasPendientes.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\obj\Debug\GestiondeTareasPendientes.Form1.resources
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\obj\Debug\GestiondeTareasPendientes.Properties.Resources.resources
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\obj\Debug\GestiondeTareasPendientes.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\obj\Debug\GestiondeTareasPendientes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\obj\Debug\GestiondeTareasPendientes.exe
+C:\Users\DELL\source\repos\GestiondeTareasPendientes\obj\Debug\GestiondeTareasPendientes.pdb

@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmbuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmbuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmbuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmbuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmviajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmviajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmconductores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmconductores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\formularios\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:formularios\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|c:\\users\\dell\\source\\repos\\sistemadecontroldebuses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79066A-A577-4E55-97C0-925E6A8629D7}|SistemaDeControlDeBuses.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBuses.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmBuses.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmBuses.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmBuses.cs",
+              "RelativeToolTip": "Formularios\\FrmBuses.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:11:27.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBoletos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmBoletos.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmBoletos.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmBoletos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FrmBoletos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:47:26.239Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmViajes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmViajes.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmViajes.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmViajes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FrmViajes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:47:10.241Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBuses.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmBuses.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmBuses.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmBuses.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FrmBuses.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:45:53.613Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmMenuPrincipal.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Formularios\\FrmMenuPrincipal.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:06:15.287Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmMenuPrincipal.cs*",
+              "RelativeToolTip": "Formularios\\FrmMenuPrincipal.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:21:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmRutas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmRutas.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmRutas.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmRutas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FrmRutas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:46:46.604Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmConductores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmConductores.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmConductores.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmConductores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\FrmConductores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:46:27.823Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmMenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmMenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Formularios\\FrmMenuPrincipal.Designer.cs",
+              "RelativeToolTip": "Formularios\\FrmMenuPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:22:14.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaDeControlDeBuses\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:16:45.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

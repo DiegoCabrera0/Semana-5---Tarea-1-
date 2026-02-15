@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\obj\Debug\SistemaDeReservasHotel.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\obj\Debug\SistemaDeReservasHotel.Form1.resources
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\obj\Debug\SistemaDeReservasHotel.Properties.Resources.resources
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\obj\Debug\SistemaDeReservasHotel.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\obj\Debug\SistemaDeReservasHotel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\bin\Debug\SistemaDeReservasHotel.exe.config
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\bin\Debug\SistemaDeReservasHotel.exe
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\bin\Debug\SistemaDeReservasHotel.pdb
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\obj\Debug\SistemaDeReservasHotel.exe
+C:\Users\DELL\source\repos\SistemaDeReservasHotel\obj\Debug\SistemaDeReservasHotel.pdb

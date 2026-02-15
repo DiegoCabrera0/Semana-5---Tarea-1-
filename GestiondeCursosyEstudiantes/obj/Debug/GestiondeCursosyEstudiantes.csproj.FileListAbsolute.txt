@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\bin\Debug\GestiondeCursosyEstudiantes.exe.config
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\bin\Debug\GestiondeCursosyEstudiantes.exe
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\bin\Debug\GestiondeCursosyEstudiantes.pdb
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\obj\Debug\GestiondeCursosyEstudiantes.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\obj\Debug\GestiondeCursosyEstudiantes.Form1.resources
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\obj\Debug\GestiondeCursosyEstudiantes.Properties.Resources.resources
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\obj\Debug\GestiondeCursosyEstudiantes.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\obj\Debug\GestiondeCursosyEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\obj\Debug\GestiondeCursosyEstudiantes.exe
+C:\Users\DELL\source\repos\GestiondeCursosyEstudiantes\obj\Debug\GestiondeCursosyEstudiantes.pdb

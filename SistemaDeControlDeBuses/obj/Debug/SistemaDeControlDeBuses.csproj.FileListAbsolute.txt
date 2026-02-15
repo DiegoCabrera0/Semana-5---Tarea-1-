@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\bin\Debug\SistemaDeControlDeBuses.exe.config
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\bin\Debug\SistemaDeControlDeBuses.exe
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\bin\Debug\SistemaDeControlDeBuses.pdb
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\obj\Debug\SistemaDeControlDeBuses.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\obj\Debug\SistemaDeControlDeBuses.MenuPrincipal.resources
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\obj\Debug\SistemaDeControlDeBuses.Formularios.FrmBuses.resources
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\obj\Debug\SistemaDeControlDeBuses.Properties.Resources.resources
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\obj\Debug\SistemaDeControlDeBuses.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\obj\Debug\SistemaDeControlDeBuses.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\obj\Debug\SistemaDeControlDeBuses.exe
+C:\Users\DELL\source\repos\SistemaDeControlDeBuses\obj\Debug\SistemaDeControlDeBuses.pdb

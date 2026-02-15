@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\bin\Debug\SistemasDeRegistrosDeNotasEscolares.exe.config
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\bin\Debug\SistemasDeRegistrosDeNotasEscolares.exe
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\bin\Debug\SistemasDeRegistrosDeNotasEscolares.pdb
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.SistemaDeRegistroNotasEscolares.resources
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.Properties.Resources.resources
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.exe
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.pdb
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.FrmEstudiantes.resources
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.FrmGestiondeMaterias.resources
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.FrmRegistrodeNotas.resources
+C:\Users\DELL\source\repos\SistemasDeRegistrosDeNotasEscolares\obj\Debug\SistemasDeRegistrosDeNotasEscolares.FrmReportesdeNotas.resources

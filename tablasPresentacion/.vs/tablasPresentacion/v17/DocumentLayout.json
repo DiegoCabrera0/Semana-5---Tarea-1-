@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|c:\\users\\dell\\source\\repos\\tablaspresentacion\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\autores\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\autores\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\calendarioregalias\\frmcalendarioregalias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\calendarioregalias\\frmcalendarioregalias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\descuentos\\frmdescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\descuentos\\frmdescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\editores\\frmeditores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\editores\\frmeditores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\empleados\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\empleados\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\editoriales\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\editoriales\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\ventas\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\ventas\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\titulos\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\titulos\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\tiendas\\frmtiendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\tiendas\\frmtiendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\libros\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\libros\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\libros\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\libros\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\informacioneditorial\\frminformacioneditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\informacioneditorial\\frminformacioneditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\titulos\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\titulos\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\ventas\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\ventas\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\editoriales\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\editoriales\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\autores\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\autores\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\editores\\frmeditores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\editores\\frmeditores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\editores\\frmeditores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\editores\\frmeditores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\tiendas\\frmtiendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\tiendas\\frmtiendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\informacioneditorial\\frminformacioneditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\informacioneditorial\\frminformacioneditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\empleados\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\empleados\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\presentacion\\descuentos\\frmdescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4DD4C-9399-4944-A930-1EB4DF748D62}|tablasPresentacion.csproj|solutionrelative:presentacion\\descuentos\\frmdescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\MenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:34:45.467Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frmautores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Autores\\Frmautores.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Autores\\Frmautores.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Autores\\Frmautores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Autores\\Frmautores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:28:18.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\MenuPrincipal.cs",
+              "RelativeToolTip": "Presentacion\\MenuPrincipal.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:37:57.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\MenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\MenuPrincipal.Designer.cs",
+              "RelativeToolTip": "Presentacion\\MenuPrincipal.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAASwKsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:02:19.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCalendarioRegalias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\CalendarioRegalias\\FrmCalendarioRegalias.cs",
+              "RelativeDocumentMoniker": "Presentacion\\CalendarioRegalias\\FrmCalendarioRegalias.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\CalendarioRegalias\\FrmCalendarioRegalias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\CalendarioRegalias\\FrmCalendarioRegalias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:15:37.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDescuentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Descuentos\\FrmDescuentos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Descuentos\\FrmDescuentos.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Descuentos\\FrmDescuentos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Descuentos\\FrmDescuentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:10:18.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frmeditores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editores\\Frmeditores.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Editores\\Frmeditores.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editores\\Frmeditores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Editores\\Frmeditores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:28:44.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frmempleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Empleados\\Frmempleados.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Empleados\\Frmempleados.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Empleados\\Frmempleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Empleados\\Frmempleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:29:11.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frmeditoriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editoriales\\Frmeditoriales.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Editoriales\\Frmeditoriales.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editoriales\\Frmeditoriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Editoriales\\Frmeditoriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:54:39.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frmventas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Ventas\\Frmventas.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Ventas\\Frmventas.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Ventas\\Frmventas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Ventas\\Frmventas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:30:04.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmTitulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Titulos\\FrmTitulos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Titulos\\FrmTitulos.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Titulos\\FrmTitulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Titulos\\FrmTitulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:37:18.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTiendas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Tiendas\\FrmTiendas.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Tiendas\\FrmTiendas.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Tiendas\\FrmTiendas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Tiendas\\FrmTiendas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:29:24.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Frmlibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Libros\\Frmlibros.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Libros\\Frmlibros.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Libros\\Frmlibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Libros\\Frmlibros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:29:38.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frmlibros.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Libros\\Frmlibros.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Libros\\Frmlibros.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Libros\\Frmlibros.cs",
+              "RelativeToolTip": "Presentacion\\Libros\\Frmlibros.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:22:10.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmTitulos.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Titulos\\FrmTitulos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Titulos\\FrmTitulos.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Titulos\\FrmTitulos.cs",
+              "RelativeToolTip": "Presentacion\\Titulos\\FrmTitulos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:19:15.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmInformacionEditorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\InformacionEditorial\\FrmInformacionEditorial.cs",
+              "RelativeDocumentMoniker": "Presentacion\\InformacionEditorial\\FrmInformacionEditorial.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\InformacionEditorial\\FrmInformacionEditorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\InformacionEditorial\\FrmInformacionEditorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:26:14.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Frmventas.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Ventas\\Frmventas.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Ventas\\Frmventas.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Ventas\\Frmventas.cs",
+              "RelativeToolTip": "Presentacion\\Ventas\\Frmventas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:15:24.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Frmeditoriales.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editoriales\\Frmeditoriales.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Editoriales\\Frmeditoriales.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editoriales\\Frmeditoriales.cs",
+              "RelativeToolTip": "Presentacion\\Editoriales\\Frmeditoriales.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:08:25.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Frmautores.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Autores\\Frmautores.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Autores\\Frmautores.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Autores\\Frmautores.cs",
+              "RelativeToolTip": "Presentacion\\Autores\\Frmautores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:51:41.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:51:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Frmeditores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editores\\Frmeditores.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Editores\\Frmeditores.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editores\\Frmeditores.Designer.cs",
+              "RelativeToolTip": "Presentacion\\Editores\\Frmeditores.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:23:47.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Frmeditores.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editores\\Frmeditores.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Editores\\Frmeditores.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Editores\\Frmeditores.cs",
+              "RelativeToolTip": "Presentacion\\Editores\\Frmeditores.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:04:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmTiendas.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Tiendas\\FrmTiendas.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Tiendas\\FrmTiendas.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Tiendas\\FrmTiendas.cs",
+              "RelativeToolTip": "Presentacion\\Tiendas\\FrmTiendas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:31:46.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmInformacionEditorial.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\InformacionEditorial\\FrmInformacionEditorial.cs",
+              "RelativeDocumentMoniker": "Presentacion\\InformacionEditorial\\FrmInformacionEditorial.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\InformacionEditorial\\FrmInformacionEditorial.cs",
+              "RelativeToolTip": "Presentacion\\InformacionEditorial\\FrmInformacionEditorial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:26:32.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Frmempleados.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Empleados\\Frmempleados.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Empleados\\Frmempleados.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Empleados\\Frmempleados.cs",
+              "RelativeToolTip": "Presentacion\\Empleados\\Frmempleados.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:19:48.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmDescuentos.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Descuentos\\FrmDescuentos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Descuentos\\FrmDescuentos.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\tablasPresentacion\\Presentacion\\Descuentos\\FrmDescuentos.cs",
+              "RelativeToolTip": "Presentacion\\Descuentos\\FrmDescuentos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:11:14.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

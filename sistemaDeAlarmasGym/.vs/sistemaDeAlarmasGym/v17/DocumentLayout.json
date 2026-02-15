@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|c:\\users\\dell\\source\\repos\\sistemadealarmasgym\\bitacorasdeejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:bitacorasdeejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\bitacorasdeejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:bitacorasdeejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\cardioyabdomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:ventanas de ejercicios\\cardioyabdomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\cardioyabdomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:ventanas de ejercicios\\cardioyabdomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\brazosyabdomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:ventanas de ejercicios\\brazosyabdomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\brazosyabdomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:ventanas de ejercicios\\brazosyabdomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\pechosycardio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:ventanas de ejercicios\\pechosycardio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\piernasycardioejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:ventanas de ejercicios\\piernasycardioejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\formseguridad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:formseguridad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\pechosycardio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:ventanas de ejercicios\\pechosycardio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\piernasycardioejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF36259A-80D5-4542-A47E-EE9E969057ED}|sistemaDeAlarmasGym.csproj|solutionrelative:ventanas de ejercicios\\piernasycardioejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bitacorasdeejercicios.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\bitacorasdeejercicios.cs",
+              "RelativeDocumentMoniker": "bitacorasdeejercicios.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\bitacorasdeejercicios.cs",
+              "RelativeToolTip": "bitacorasdeejercicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:33:10.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cardioyabdomen.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\cardioyabdomen.cs",
+              "RelativeDocumentMoniker": "ventanas de ejercicios\\cardioyabdomen.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\cardioyabdomen.cs",
+              "RelativeToolTip": "ventanas de ejercicios\\cardioyabdomen.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:56:55.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "brazosyabdomen.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\brazosyabdomen.cs",
+              "RelativeDocumentMoniker": "ventanas de ejercicios\\brazosyabdomen.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\brazosyabdomen.cs",
+              "RelativeToolTip": "ventanas de ejercicios\\brazosyabdomen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:55:48.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cardioyabdomen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\cardioyabdomen.cs",
+              "RelativeDocumentMoniker": "ventanas de ejercicios\\cardioyabdomen.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\cardioyabdomen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanas de ejercicios\\cardioyabdomen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:48:55.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bitacorasdeejercicios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\bitacorasdeejercicios.cs",
+              "RelativeDocumentMoniker": "bitacorasdeejercicios.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\bitacorasdeejercicios.cs [Design]",
+              "RelativeToolTip": "bitacorasdeejercicios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:31:33.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "brazosyabdomen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\brazosyabdomen.cs",
+              "RelativeDocumentMoniker": "ventanas de ejercicios\\brazosyabdomen.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\brazosyabdomen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanas de ejercicios\\brazosyabdomen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:41:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PechosyCardio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\PechosyCardio.cs",
+              "RelativeDocumentMoniker": "ventanas de ejercicios\\PechosyCardio.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\PechosyCardio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanas de ejercicios\\PechosyCardio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:11:42.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "piernasycardioejercicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\piernasycardioejercicios.cs",
+              "RelativeDocumentMoniker": "ventanas de ejercicios\\piernasycardioejercicios.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\piernasycardioejercicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanas de ejercicios\\piernasycardioejercicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:46:03.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:35:56.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "seguridad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\seguridad.cs",
+              "RelativeDocumentMoniker": "seguridad.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\seguridad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "seguridad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:09:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "seguridad.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\seguridad.cs",
+              "RelativeDocumentMoniker": "seguridad.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\seguridad.cs",
+              "RelativeToolTip": "seguridad.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAewDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:10:52.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAWwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:51:45.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:48:47.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:59:43.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Formseguridad.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Formseguridad.cs",
+              "RelativeDocumentMoniker": "Formseguridad.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Formseguridad.cs",
+              "RelativeToolTip": "Formseguridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:26:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormSeguridad1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\FormSeguridad1.cs",
+              "RelativeDocumentMoniker": "FormSeguridad1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\FormSeguridad1.cs",
+              "RelativeToolTip": "FormSeguridad1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:54:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:48:14.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PechosyCardio.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\PechosyCardio.cs",
+              "RelativeDocumentMoniker": "ventanas de ejercicios\\PechosyCardio.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\PechosyCardio.cs",
+              "RelativeToolTip": "ventanas de ejercicios\\PechosyCardio.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:24:03.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "piernasycardioejercicios.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\piernasycardioejercicios.cs",
+              "RelativeDocumentMoniker": "ventanas de ejercicios\\piernasycardioejercicios.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\sistemaDeAlarmasGym\\ventanas de ejercicios\\piernasycardioejercicios.cs",
+              "RelativeToolTip": "ventanas de ejercicios\\piernasycardioejercicios.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAywBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:53:21.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

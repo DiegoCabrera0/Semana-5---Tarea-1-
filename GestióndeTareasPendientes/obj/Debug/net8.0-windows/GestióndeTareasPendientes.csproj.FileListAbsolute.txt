@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.Form1.resources
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.AssemblyInfo.cs
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\bin\Debug\net8.0-windows\GestióndeTareasPendientes.exe
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\bin\Debug\net8.0-windows\GestióndeTareasPendientes.deps.json
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\bin\Debug\net8.0-windows\GestióndeTareasPendientes.runtimeconfig.json
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\bin\Debug\net8.0-windows\GestióndeTareasPendientes.dll
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\bin\Debug\net8.0-windows\GestióndeTareasPendientes.pdb
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.dll
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\refint\GestióndeTareasPendientes.dll
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.pdb
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\GestióndeTareasPendientes.genruntimeconfig.cache
+C:\Users\DELL\source\repos\GestióndeTareasPendientes\obj\Debug\net8.0-windows\ref\GestióndeTareasPendientes.dll

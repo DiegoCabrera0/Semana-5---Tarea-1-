@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmagregarautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmagregarautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmagregarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmagregarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmagregarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmagregarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmagregarautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmagregarautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmprestamo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmprestamo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\ui\\frmagregarusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:ui\\frmagregarusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:dal\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\bll\\librobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:bll\\librobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\bll\\prestamobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:bll\\prestamobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\bll\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:bll\\usuariobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\dal\\prestamodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:dal\\prestamodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|c:\\users\\dell\\source\\repos\\sistemabiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2177C74-3202-4049-8D3F-B0132D04F14E}|SistemaBiblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAgregarLibro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarLibro.cs",
+              "RelativeDocumentMoniker": "UI\\FrmAgregarLibro.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarLibro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\FrmAgregarLibro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:12:37.884Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrestamo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmPrestamo.cs",
+              "RelativeDocumentMoniker": "UI\\FrmPrestamo.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmPrestamo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\FrmPrestamo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:06:11.618Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmPrestamo.cs",
+              "RelativeDocumentMoniker": "UI\\FrmPrestamo.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmPrestamo.cs",
+              "RelativeToolTip": "UI\\FrmPrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:11:17.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAgregarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "UI\\FrmAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\FrmAgregarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:39:30.633Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAgregarAutor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarAutor.cs",
+              "RelativeDocumentMoniker": "UI\\FrmAgregarAutor.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarAutor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\FrmAgregarAutor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:41:55.252Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAgregarLibro.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarLibro.cs",
+              "RelativeDocumentMoniker": "UI\\FrmAgregarLibro.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarLibro.cs",
+              "RelativeToolTip": "UI\\FrmAgregarLibro.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:23:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAgregarAutor.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarAutor.cs",
+              "RelativeDocumentMoniker": "UI\\FrmAgregarAutor.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarAutor.cs",
+              "RelativeToolTip": "UI\\FrmAgregarAutor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:46:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\DAL\\UsuarioDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\UsuarioDAL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\DAL\\UsuarioDAL.cs",
+              "RelativeToolTip": "DAL\\UsuarioDAL.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAASwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:25:13.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PrestamoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\DAL\\PrestamoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PrestamoDAL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\DAL\\PrestamoDAL.cs",
+              "RelativeToolTip": "DAL\\PrestamoDAL.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:47:07.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPrestamo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmPrestamo.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FrmPrestamo.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmPrestamo.Designer.cs",
+              "RelativeToolTip": "UI\\FrmPrestamo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:24:35.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmAgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "UI\\FrmAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarUsuario.cs",
+              "RelativeToolTip": "UI\\FrmAgregarUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:40:06.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAgregarUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FrmAgregarUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\UI\\FrmAgregarUsuario.Designer.cs",
+              "RelativeToolTip": "UI\\FrmAgregarUsuario.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:45:53.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrestamoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\BLL\\PrestamoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PrestamoBLL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\BLL\\PrestamoBLL.cs",
+              "RelativeToolTip": "BLL\\PrestamoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:55:33.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioBLL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\BLL\\UsuarioBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\UsuarioBLL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\BLL\\UsuarioBLL.cs",
+              "RelativeToolTip": "BLL\\UsuarioBLL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:27:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibroDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\DAL\\LibroDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\LibroDAL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\DAL\\LibroDAL.cs",
+              "RelativeToolTip": "DAL\\LibroDAL.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwGAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:42:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibroBLL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\BLL\\LibroBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\LibroBLL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\BLL\\LibroBLL.cs",
+              "RelativeToolTip": "BLL\\LibroBLL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:45:18.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\DAL\\Conexion.cs",
+              "RelativeDocumentMoniker": "DAL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\DAL\\Conexion.cs",
+              "RelativeToolTip": "DAL\\Conexion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:22:37.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SistemaBiblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:20:23.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

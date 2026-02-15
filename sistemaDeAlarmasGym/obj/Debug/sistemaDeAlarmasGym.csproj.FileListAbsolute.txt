@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\bin\Debug\sistemaDeAlarmasGym.exe.config
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\bin\Debug\sistemaDeAlarmasGym.exe
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\bin\Debug\sistemaDeAlarmasGym.pdb
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.Properties.Resources.resources
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.exe
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.pdb
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.Form1.resources
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.bitacorasdeejercicios.resources
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.piernasycardioejercicios.resources
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.ventanas_de_ejercicios.PechosyCardio.resources
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.ventanas_de_ejercicios.brazosyabdomen.resources
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.seguridad.resources
+C:\Users\DELL\source\repos\sistemaDeAlarmasGym\obj\Debug\sistemaDeAlarmasGym.ventanas_de_ejercicios.cardioyabdomen.resources
